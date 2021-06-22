@@ -45,7 +45,7 @@ class _WhatsAppHomeState extends State<WhatsAppHome>
           SizedBox(
             width: 5.0,
           ),
-          Icon(Icons.more_vert)
+          Icon(Icons.more_vert),
         ],
       ),
       body: TabBarView(
